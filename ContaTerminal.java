@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class ContaTerminal {
-    public static void mai(String[] args) throws Exception {
+    public static void main(String[] args) throws Exception {
         // Conhecer e importar a classe Scanner
         Scanner scanner = new Scanner(System.in);
 
